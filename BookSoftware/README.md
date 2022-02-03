@@ -5,11 +5,11 @@
 ## Here is the links for each of the software:
 
 
- FTK Imager Lite:     https://accessdata.com/product-download 
- Registry Viewer:     https://accessdata.com/product-download/registry-viewer-1-8-0-5
- Hex Workshop:        http://www.bpsoft.com/downloads/
- WinHex:              https://www.x-ways.net/winhex/
- Kali Linux:          https://www.kali.org/get-kali/#kali-platforms
- OSForensics:         https://www.osforensics.com/download.html
- Autopsy:             https://sourceforge.net/projects/autopsy/files/autopsy/4.3.0/
- VMware:              https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0
+ FTK Imager Lite:     https://accessdata.com/product-download <br />
+ Registry Viewer:     https://accessdata.com/product-download/registry-viewer-1-8-0-5 <br />
+ Hex Workshop:        http://www.bpsoft.com/downloads/ <br />
+ WinHex:              https://www.x-ways.net/winhex/ <br />
+ Kali Linux:          https://www.kali.org/get-kali/#kali-platforms <br />
+ OSForensics:         https://www.osforensics.com/download.html <br />
+ Autopsy:             https://sourceforge.net/projects/autopsy/files/autopsy/4.3.0/ <br />
+ VMware:              https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0 <br />
